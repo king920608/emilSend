@@ -1,0 +1,13 @@
+com\test\Send.class
+com\entity\DigitalEntity.class
+com\service\impl\SendEmailServiveImpl.class
+com\util\LoadProp.class
+com\dao\impl\SendEmailDaoImpl.class
+com\entity\AccountEntity.class
+com\util\EWSUtil.class
+com\dao\SendEmailDao.class
+com\entity\ManagerEntity.class
+com\service\SendEmailService.class
+com\util\SendEmail.class
+com\quartz\SendQuartz.class
+com\util\CreateExeclFile.class
